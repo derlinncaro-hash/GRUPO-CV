@@ -10,6 +10,7 @@
     height: 500px;
     object-fit: contain;
     background-color: var(--gris-fondo);
+    border: 10px;
 }
 
 @media (max-width: 768px) {
